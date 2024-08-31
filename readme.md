@@ -1,5 +1,5 @@
 <h1>¡Hola! Soy 7R0N1X <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-Desarrollador frontend entusiasta con pasión por el diseño web y la programación. Soy autodidacta, altamente creativo, y me esfuerzo por aprender y mejorar cada día en el mundo del desarrollo.
+Desarrollador frontend autodidacta y altamente creativo, dedicado a aprender y perfeccionar mis habilidades continuamente en el mundo del desarrollo.
 
 ### Lenguajes y herramientas
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
